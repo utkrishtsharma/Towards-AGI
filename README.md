@@ -1,6 +1,22 @@
 # Towards-AGI ✅
 JUST so fascinated about that mathamatical geometric hyper dimentional  polonomial curve prediction function and doing so very cheaply for scale sake  
 
+## Visual Overview of Architectures
+
+### Convolution – Local Feature Extraction
+![Convolution – local feature extraction](Convolution- local feature extraction.png)
+
+### LSTM – Sequential Memory
+![LSTM](LSTM.png)
+
+### ResNet – Residual Learning
+![ResNet](ResNet.png)
+
+### Transformer – Attention Mechanism
+![Transformer](Transformer.png)
+
+### Image Segmentation – Pixel-wise Prediction
+![Image Segmentation](Image_Segmentation.png)
 
 
 ----------  HERE Goes the AI kiddoo : ---------------------
